@@ -26,13 +26,17 @@
 
 ArtsBox 是一款跨平台桌面应用，利用先进的 AI 图像生成技术，让创作者能够通过简单的文字描述或图片输入，快速生成高质量的艺术作品。
 
+
+
+
+
 ### 核心优势
 
 - 🎨 **多种生成模式** - 支持文生图、图文生图、多图融合、组图输出
 - 🚀 **原生性能** - 基于 Wails 框架，拥有接近原生应用的性能
 - 🎯 **简洁易用** - 现代化 UI 设计，操作直观流畅
 - 💾 **本地优先** - 配置和图片均保存在本地，保护隐私
-- 🔌 **API 兼容** - 支持多种 AI 图像生成服务（默认豆包 Seedream）
+- 🔌 **API 兼容** - 支持多种 AI 图像生成服务（默认 Seedream）
 
 ---
 
@@ -101,7 +105,7 @@ ArtsBox 是一款跨平台桌面应用，利用先进的 AI 图像生成技术�
 2. **打开设置** - 点击左侧底部的 ⚙️ 设置图标
 3. **配置 API**:
    - **API Key**: 输入您的 AI 服务 API 密钥
-   - **Base URL**: 默认 `https://api.cozex.cn/v1`（可自定义）
+   - **Base URL**: 默认 `https://api.artsmcp.com/v1`（可自定义）
    - **模型选择**: 选择 `doubao-seedream-4-5-251128` 或 `doubao-seedream-4-0-250828`
    - **保存目录**: 设置图片保存路径（默认：`%USERPROFILE%\Pictures\ArtsBox`）
 4. **保存配置** - 点击保存按钮
@@ -409,7 +413,8 @@ makensis installer-simple.nsi
 
 ## 📧 联系方式
 
-- **Email**: info@artsbox.app
+- **WX**:artsmcp 
+- **TG**：suarts
 - **Issue**: [GitHub Issues](../../issues)
 
 ---
