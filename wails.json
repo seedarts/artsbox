@@ -1,0 +1,26 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "artsbox",
+  "outputfilename": "artsbox",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "ArtsBox",
+    "email": "info@artsbox.app"
+  },
+  "info": {
+    "companyName": "ArtsBox",
+    "productName": "ArtsBox AI 图片生成器",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2024 ArtsBox",
+    "comments": "基于豆包 Seedream 的 AI 图片生成桌面应用"
+  },
+  "nsis": {
+    "create": true,
+    "installDirectory": "ArtsBox",
+    "allowDowngrades": true,
+    "allowElevation": true
+  }
+}
