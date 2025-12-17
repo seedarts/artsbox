@@ -231,8 +231,8 @@ artsbox/
 #### 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/artsbox02.git
-cd artsbox02/artsbox
+git clone https://github.com/seedarts/artsbox.git
+cd seedarts/artsbox
 ```
 
 #### 安装依赖
