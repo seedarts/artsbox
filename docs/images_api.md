@@ -159,3 +159,7 @@ curl https://api.cozex.cn/v1/images/generations \
 
 - doubao-seedream-4-0-250828
 - doubao-seedream-4-5-251128
+
+## 参考文档：
+
+- https://www.volcengine.com/docs/82379/1541523?lang=zh
